@@ -1,0 +1,22 @@
+.body{
+    background-color: rgb(211, 202, 202);
+}
+.title{
+    background-color: rgb(11, 2, 36);
+    
+}
+.library{
+    color: white;
+    padding: 7%;    
+}
+.content{
+    border-radius: 0%;
+    margin-inline-start: 10%;
+    margin-inline-end: 10%;
+    color: white;
+    margin-top: -3%;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}

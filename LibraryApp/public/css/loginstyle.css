@@ -1,0 +1,10 @@
+.login{
+    color: black;
+}
+.email{
+    padding-inline-start: 30%;
+    font-weight: 500;
+}
+.button{
+    margin-top: 10px;
+}
